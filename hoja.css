@@ -1,0 +1,54 @@
+
+
+body{
+    background-color: #9a9af6; /* Aplica el color azul */
+    height: 150px;          /* Define la altura de la parte superior */
+    width: 100%;            /* Asegura que ocupe todo el ancho */
+}
+
+
+body {
+    font-family: Arial, sans-serif; /* Opcional, para una fuente más moderna */
+}
+
+h1 {
+    text-align: center; /* Centra el texto horizontalmente */
+    margin: 20px 0; /* Añade un margen superior e inferior */
+}
+.perfil-img {
+    max-width: 10%;
+    height: auto;
+    margin-left: 15%; /* Ajusta el valor para mover la imagen hacia la derecha */
+}
+
+body {
+    font-family: Arial, sans-serif; /* Fuente para todo el documento */
+    margin: 0;
+    padding: 0;
+    background-color: #9a9af6; /* Color de fondo de la página */
+}
+
+section {
+    margin: 20px; /* Espacio alrededor de la sección */
+}
+
+.perfil-img {
+    max-width: 10%;
+    height: auto;
+    margin-left: 10px;
+}
+
+.info-cuadro {
+    background-color: #fff; /* Fondo blanco */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+    display: inline-block; /* Ajusta el tamaño del cuadro al contenido */
+    padding: 10px; /* Espacio interno alrededor del texto */
+    list-style-type: none; /* Elimina los puntos de lista */
+    margin: 20px 0; /* Añade margen arriba y abajo del cuadro */
+    /* Si deseas añadir margen a los lados también, usa: margin: 20px; */
+}
+h2 {
+    text-align: center; /* Centra el texto horizontalmente */
+    margin: 20px 0; /* Añade un margen superior e inferior */
+}
